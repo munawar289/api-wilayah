@@ -2,6 +2,17 @@
 
 Static REST API data wilayah Indonesia yang bisa kamu host sendiri di GitHub Pages.
 
+Data saat ini diisi dari dataset relasi BPS Semester 1 Tahun 2025 dan Kemendagri Tahun 2025:
+
+| Level | Total |
+|-------|------:|
+| Provinsi | 38 |
+| Kabupaten/Kota | 514 |
+| Kecamatan | 7.286 |
+| Kelurahan/Desa | 84.270 |
+
+Catatan: importer melewati duplikat kode wilayah dari sumber agar setiap endpoint detail berbasis `id` unik.
+
 ## Cara Kerja
 
 1. Edit file CSV di folder `/data`
@@ -71,6 +82,14 @@ node scripts/generate.js
 ```
 
 Output masuk ke folder `/api`.
+
+## Import Dataset BPS 2025
+
+Repo ini menyertakan helper untuk mengonversi `db_wilayah_bps.sql.zip` dari dataset relasi BPS/Kemendagri ke empat CSV di folder `/data`:
+
+```bash
+node scripts/import-bps-2025.js /path/to/db_wilayah_bps.sql.zip
+```
 
 ---
 
