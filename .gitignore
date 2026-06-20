@@ -1,0 +1,3 @@
+node_modules/
+# /api TIDAK di-ignore — commit hasil generate juga ke main
+# supaya bisa preview lokal tanpa server

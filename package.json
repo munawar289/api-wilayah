@@ -1,0 +1,12 @@
+{
+  "name": "api-wilayah-indonesia",
+  "version": "1.0.0",
+  "description": "Static API data wilayah Indonesia - self-hosted di GitHub Pages",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "dev": "node scripts/generate.js && echo '\nEndpoints ready in ./api'"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

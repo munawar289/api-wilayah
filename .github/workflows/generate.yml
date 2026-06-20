@@ -1,0 +1,37 @@
+name: Generate & Deploy API
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'        # trigger hanya kalau CSV berubah
+      - 'scripts/**'     # atau script generatornya
+  workflow_dispatch:     # bisa trigger manual dari GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate JSON files
+        run: node scripts/generate.js
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./api
+          publish_branch: gh-pages
+          # Tambahkan CORS header agar bisa diakses dari browser
+          force_orphan: false
