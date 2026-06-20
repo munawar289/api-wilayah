@@ -1,0 +1,42 @@
+[
+  {
+    "id": "8103010001",
+    "district_id": "8103010",
+    "name": "PULAU RHUN"
+  },
+  {
+    "id": "8103010002",
+    "district_id": "8103010",
+    "name": "PULAU AY"
+  },
+  {
+    "id": "8103010006",
+    "district_id": "8103010",
+    "name": "KAMPUNG BARU"
+  },
+  {
+    "id": "8103010007",
+    "district_id": "8103010",
+    "name": "DWIWARNA"
+  },
+  {
+    "id": "8103010008",
+    "district_id": "8103010",
+    "name": "RAJAWALI"
+  },
+  {
+    "id": "8103010009",
+    "district_id": "8103010",
+    "name": "MERDEKA"
+  },
+  {
+    "id": "8103010010",
+    "district_id": "8103010",
+    "name": "NUSANTARA"
+  },
+  {
+    "id": "8103010012",
+    "district_id": "8103010",
+    "name": "TANAH RATA"
+  }
+]

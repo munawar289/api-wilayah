@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3310080001",
+    "district_id": "3310080",
+    "name": "BASIN"
+  },
+  {
+    "id": "3310080002",
+    "district_id": "3310080",
+    "name": "GONDANG"
+  },
+  {
+    "id": "3310080003",
+    "district_id": "3310080",
+    "name": "PLUNENG"
+  },
+  {
+    "id": "3310080004",
+    "district_id": "3310080",
+    "name": "NGRUNDUL"
+  },
+  {
+    "id": "3310080005",
+    "district_id": "3310080",
+    "name": "MALANGJIWAN"
+  },
+  {
+    "id": "3310080006",
+    "district_id": "3310080",
+    "name": "MENDEN"
+  },
+  {
+    "id": "3310080007",
+    "district_id": "3310080",
+    "name": "KARANGDUREN"
+  }
+]

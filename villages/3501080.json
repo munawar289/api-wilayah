@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3501080001",
+    "district_id": "3501080",
+    "name": "PETUNGSINARANG"
+  },
+  {
+    "id": "3501080002",
+    "district_id": "3501080",
+    "name": "NGUNUT"
+  },
+  {
+    "id": "3501080003",
+    "district_id": "3501080",
+    "name": "BANDAR"
+  },
+  {
+    "id": "3501080004",
+    "district_id": "3501080",
+    "name": "KLEDUNG"
+  },
+  {
+    "id": "3501080005",
+    "district_id": "3501080",
+    "name": "TUMPUK"
+  },
+  {
+    "id": "3501080006",
+    "district_id": "3501080",
+    "name": "WATUPATOK"
+  },
+  {
+    "id": "3501080007",
+    "district_id": "3501080",
+    "name": "BANGUNSARI"
+  },
+  {
+    "id": "3501080008",
+    "district_id": "3501080",
+    "name": "JERUK"
+  }
+]

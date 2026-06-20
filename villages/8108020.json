@@ -1,0 +1,52 @@
+[
+  {
+    "id": "8108020001",
+    "district_id": "8108020",
+    "name": "LEKLOOR"
+  },
+  {
+    "id": "8108020002",
+    "district_id": "8108020",
+    "name": "OIRATA BARAT"
+  },
+  {
+    "id": "8108020003",
+    "district_id": "8108020",
+    "name": "OIRATA TIMUR"
+  },
+  {
+    "id": "8108020004",
+    "district_id": "8108020",
+    "name": "ABUSUR"
+  },
+  {
+    "id": "8108020005",
+    "district_id": "8108020",
+    "name": "KOTALAMA"
+  },
+  {
+    "id": "8108020006",
+    "district_id": "8108020",
+    "name": "WONRELI"
+  },
+  {
+    "id": "8108020007",
+    "district_id": "8108020",
+    "name": "DESA PERSIAPAN WOORONNO"
+  },
+  {
+    "id": "8108020008",
+    "district_id": "8108020",
+    "name": "DESA PERSIAPAN MESIAPI"
+  },
+  {
+    "id": "8108020009",
+    "district_id": "8108020",
+    "name": "DESA PERSIAPAN YAWURU"
+  },
+  {
+    "id": "8108020010",
+    "district_id": "8108020",
+    "name": "DESA PERSIAPAN SUMPALI"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1309100001",
+    "district_id": "1309100",
+    "name": "CUBADAK"
+  },
+  {
+    "id": "1309100002",
+    "district_id": "1309100",
+    "name": "SIMPANG TONANG"
+  },
+  {
+    "id": "1309100003",
+    "district_id": "1309100",
+    "name": "NAGARI CUBADAK BARAT"
+  },
+  {
+    "id": "1309100004",
+    "district_id": "1309100",
+    "name": "NAGARI CUBADAK TENGAH"
+  },
+  {
+    "id": "1309100005",
+    "district_id": "1309100",
+    "name": "NAGARI CUBADAK TIMUR"
+  },
+  {
+    "id": "1309100006",
+    "district_id": "1309100",
+    "name": "NAGARI SIMPANG TONANG SELATAN"
+  },
+  {
+    "id": "1309100007",
+    "district_id": "1309100",
+    "name": "NAGARI SIMPANG TONANG UTARA"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1671020008",
+    "district_id": "1671020",
+    "name": "SATU ULU"
+  },
+  {
+    "id": "1671020010",
+    "district_id": "1671020",
+    "name": "DUA ULU"
+  },
+  {
+    "id": "1671020011",
+    "district_id": "1671020",
+    "name": "TIGA EMPAT ULU"
+  },
+  {
+    "id": "1671020012",
+    "district_id": "1671020",
+    "name": "LIMA ULU"
+  },
+  {
+    "id": "1671020013",
+    "district_id": "1671020",
+    "name": "TUJUH ULU"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2101010003",
+    "district_id": "2101010",
+    "name": "MORO"
+  },
+  {
+    "id": "2101010004",
+    "district_id": "2101010",
+    "name": "PAUH"
+  },
+  {
+    "id": "2101010009",
+    "district_id": "2101010",
+    "name": "JANG"
+  },
+  {
+    "id": "2101010010",
+    "district_id": "2101010",
+    "name": "MORO TIMUR"
+  },
+  {
+    "id": "2101010011",
+    "district_id": "2101010",
+    "name": "PULAU MORO"
+  }
+]

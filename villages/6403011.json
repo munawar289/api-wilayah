@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6403011001",
+    "district_id": "6403011",
+    "name": "SUNGAI MERDEKA"
+  },
+  {
+    "id": "6403011002",
+    "district_id": "6403011",
+    "name": "SALOK API DARAT"
+  },
+  {
+    "id": "6403011003",
+    "district_id": "6403011",
+    "name": "TANI BAKTI"
+  },
+  {
+    "id": "6403011004",
+    "district_id": "6403011",
+    "name": "SALOK API LAUT"
+  },
+  {
+    "id": "6403011005",
+    "district_id": "6403011",
+    "name": "AMBARAWANG DARAT"
+  },
+  {
+    "id": "6403011006",
+    "district_id": "6403011",
+    "name": "ARGOSARI"
+  },
+  {
+    "id": "6403011007",
+    "district_id": "6403011",
+    "name": "AMBARAWANG LAUT"
+  },
+  {
+    "id": "6403011008",
+    "district_id": "6403011",
+    "name": "MARGOMULYO"
+  },
+  {
+    "id": "6403011009",
+    "district_id": "6403011",
+    "name": "BUKIT MERDEKA"
+  },
+  {
+    "id": "6403011010",
+    "district_id": "6403011",
+    "name": "KARYA MERDEKA"
+  }
+]

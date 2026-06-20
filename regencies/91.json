@@ -1,0 +1,37 @@
+[
+  {
+    "id": "9101",
+    "province_id": "91",
+    "name": "KABUPATEN FAK FAK"
+  },
+  {
+    "id": "9102",
+    "province_id": "91",
+    "name": "KABUPATEN KAIMANA"
+  },
+  {
+    "id": "9103",
+    "province_id": "91",
+    "name": "KABUPATEN TELUK WONDAMA"
+  },
+  {
+    "id": "9104",
+    "province_id": "91",
+    "name": "KABUPATEN TELUK BINTUNI"
+  },
+  {
+    "id": "9105",
+    "province_id": "91",
+    "name": "KABUPATEN MANOKWARI"
+  },
+  {
+    "id": "9111",
+    "province_id": "91",
+    "name": "KABUPATEN MANOKWARI SELATAN"
+  },
+  {
+    "id": "9112",
+    "province_id": "91",
+    "name": "KABUPATEN PEGUNUNGAN ARFAK"
+  }
+]

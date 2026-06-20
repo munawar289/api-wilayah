@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2104050001",
+    "district_id": "2104050",
+    "name": "MAMUT"
+  },
+  {
+    "id": "2104050002",
+    "district_id": "2104050",
+    "name": "SENAYANG"
+  },
+  {
+    "id": "2104050013",
+    "district_id": "2104050",
+    "name": "PENAAH"
+  },
+  {
+    "id": "2104050014",
+    "district_id": "2104050",
+    "name": "LABOH"
+  },
+  {
+    "id": "2104050015",
+    "district_id": "2104050",
+    "name": "BARAN"
+  },
+  {
+    "id": "2104050016",
+    "district_id": "2104050",
+    "name": "DESA PERSIAPAN KENTAR"
+  },
+  {
+    "id": "2104050017",
+    "district_id": "2104050",
+    "name": "DESA PERSIAPAN SEBUNG"
+  }
+]

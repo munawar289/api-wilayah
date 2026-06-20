@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1306070001",
+    "district_id": "1306070",
+    "name": "CAMPAGO"
+  },
+  {
+    "id": "1306070002",
+    "district_id": "1306070",
+    "name": "SIKUCUA"
+  },
+  {
+    "id": "1306070003",
+    "district_id": "1306070",
+    "name": "CAMPAGO SELATAN"
+  },
+  {
+    "id": "1306070004",
+    "district_id": "1306070",
+    "name": "CAMPAGO BARAT"
+  },
+  {
+    "id": "1306070005",
+    "district_id": "1306070",
+    "name": "SIKUCUA TENGAH"
+  },
+  {
+    "id": "1306070006",
+    "district_id": "1306070",
+    "name": "SIKUCUA BARAT"
+  },
+  {
+    "id": "1306070007",
+    "district_id": "1306070",
+    "name": "SIKUCUA UTARA"
+  },
+  {
+    "id": "1306070008",
+    "district_id": "1306070",
+    "name": "SIKUCUA TIMUR"
+  }
+]

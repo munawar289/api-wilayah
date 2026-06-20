@@ -2,32 +2,32 @@
   {
     "id": "5171020001",
     "district_id": "5171020",
-    "name": "KESIMAN"
+    "name": "DANGIN PURI KLOD"
   },
   {
     "id": "5171020002",
     "district_id": "5171020",
-    "name": "KESIMAN KERTALANGU"
+    "name": "SUMERTA KELOD"
   },
   {
     "id": "5171020003",
     "district_id": "5171020",
-    "name": "KESIMAN PETILAN"
+    "name": "KESIMAN"
   },
   {
     "id": "5171020004",
     "district_id": "5171020",
-    "name": "SUMERTA"
+    "name": "KESIMAN PETILAN"
   },
   {
     "id": "5171020005",
     "district_id": "5171020",
-    "name": "SUMERTA KELOD"
+    "name": "KESIMAN KERTALANGU"
   },
   {
     "id": "5171020006",
     "district_id": "5171020",
-    "name": "SUMERTA KAUH"
+    "name": "SUMERTA"
   },
   {
     "id": "5171020007",
@@ -37,10 +37,20 @@
   {
     "id": "5171020008",
     "district_id": "5171020",
+    "name": "SUMERTA KAUH"
+  },
+  {
+    "id": "5171020010",
+    "district_id": "5171020",
+    "name": "DANGIN PURI"
+  },
+  {
+    "id": "5171020014",
+    "district_id": "5171020",
     "name": "PENATIH"
   },
   {
-    "id": "5171020009",
+    "id": "5171020015",
     "district_id": "5171020",
     "name": "PENATIH DANGIN PURI"
   }

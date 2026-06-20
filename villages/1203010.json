@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1203010056",
+    "district_id": "1203010",
+    "name": "SORIK"
+  },
+  {
+    "id": "1203010057",
+    "district_id": "1203010",
+    "name": "PADANG KAHOMBU"
+  },
+  {
+    "id": "1203010058",
+    "district_id": "1203010",
+    "name": "HUTA PADANG"
+  },
+  {
+    "id": "1203010059",
+    "district_id": "1203010",
+    "name": "SORI MADINGIN PP"
+  },
+  {
+    "id": "1203010061",
+    "district_id": "1203010",
+    "name": "HURASE"
+  },
+  {
+    "id": "1203010069",
+    "district_id": "1203010",
+    "name": "SIGULANG LOSUNG"
+  },
+  {
+    "id": "1203010075",
+    "district_id": "1203010",
+    "name": "PASAR LAMA"
+  },
+  {
+    "id": "1203010076",
+    "district_id": "1203010",
+    "name": "SIGALANGAN"
+  },
+  {
+    "id": "1203010079",
+    "district_id": "1203010",
+    "name": "JANJI MANAON"
+  },
+  {
+    "id": "1203010081",
+    "district_id": "1203010",
+    "name": "BARGOT TOPONG"
+  },
+  {
+    "id": "1203010083",
+    "district_id": "1203010",
+    "name": "SIDADI II"
+  },
+  {
+    "id": "1203010084",
+    "district_id": "1203010",
+    "name": "SIDADI I"
+  },
+  {
+    "id": "1203010099",
+    "district_id": "1203010",
+    "name": "AEK NAULI"
+  },
+  {
+    "id": "1203010114",
+    "district_id": "1203010",
+    "name": "BENTENG HURABA"
+  },
+  {
+    "id": "1203010115",
+    "district_id": "1203010",
+    "name": "KELURAHAN PINTU PADANG I"
+  },
+  {
+    "id": "1203010116",
+    "district_id": "1203010",
+    "name": "KELURAHAN PINTU PADANG II"
+  },
+  {
+    "id": "1203010117",
+    "district_id": "1203010",
+    "name": "BANGUN PURBA"
+  },
+  {
+    "id": "1203010118",
+    "district_id": "1203010",
+    "name": "SITAMPA"
+  },
+  {
+    "id": "1203010120",
+    "district_id": "1203010",
+    "name": "SIBULELE MUARA"
+  },
+  {
+    "id": "1203010121",
+    "district_id": "1203010",
+    "name": "AEK GUNUNG"
+  },
+  {
+    "id": "1203010126",
+    "district_id": "1203010",
+    "name": "TAHALAK UJUNG GADING"
+  }
+]

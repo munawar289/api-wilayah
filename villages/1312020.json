@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1312020001",
+    "district_id": "1312020",
+    "name": "DESA BARU"
+  },
+  {
+    "id": "1312020002",
+    "district_id": "1312020",
+    "name": "BATAHAN"
+  },
+  {
+    "id": "1312020003",
+    "district_id": "1312020",
+    "name": "DESA BARU BARAT"
+  },
+  {
+    "id": "1312020004",
+    "district_id": "1312020",
+    "name": "BATAHAN UTARA"
+  },
+  {
+    "id": "1312020005",
+    "district_id": "1312020",
+    "name": "BATAHAN TENGAH"
+  },
+  {
+    "id": "1312020006",
+    "district_id": "1312020",
+    "name": "BATAHAN BARAT"
+  },
+  {
+    "id": "1312020007",
+    "district_id": "1312020",
+    "name": "BATAHAN SELATAN"
+  }
+]
